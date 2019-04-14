@@ -37,7 +37,7 @@ Or you can create a `requirements.txt` file and add this as requirements:
  ```
 
 ## USAGE
-```$touch start.py``` and then add this code segment in it:
+```$ touch start.py``` and then add this code segment in it:
 
 ```
 from measure import metrics, norms
