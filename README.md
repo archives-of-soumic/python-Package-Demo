@@ -1,4 +1,4 @@
-# python-setup-pckg-demo
+# package_demo
 
 ## The standard Lorem Ipsum passage, used since the 1500s
 
