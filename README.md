@@ -25,7 +25,10 @@ setup(
 1. ```$ virtualenv env```
 2. ```$ source env/bin/activate``` 
 3. ```$ pip install  git+https://github.com/fahimfarhan/package_demo.git``` 
- 
+ Or you can create a `requirements.txt` file and add this as requirements:
+ ```
+ git+https://github.com/fahimfarhan/package_demo.git
+ ```
 ## USAGE
 ```$touch start.py``` and then add this code segment in it:
 
