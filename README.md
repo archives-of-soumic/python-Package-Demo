@@ -1,4 +1,5 @@
 # package_demo
+NB: to import modules from other directories, check out the test...
 This is how you create a simple python package:
 ```
 project
